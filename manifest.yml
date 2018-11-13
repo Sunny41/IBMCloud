@@ -1,0 +1,5 @@
+ applications:
+ - name: sonja
+   memory: 256M
+   host: sonja
+   buildpack: staticfile_buildpack
